@@ -1,10 +1,30 @@
-辽宁卫视,http://175.148.29.98:9902/tsfile/live/0121_1.m3u8#http:///hls/19/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.126:1234
-辽宁都市,http://175.148.29.98:9902/tsfile/live/1000_1.m3u8#http:///hls/22/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.154:1234
-辽宁影视剧,http://175.148.29.98:9902/tsfile/live/1001_1.m3u8#http:///hls/23/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.25:1234
-辽宁体育,http://175.148.29.98:9902/tsfile/live/1003_1.m3u8#http:///hls/25/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.164:1234
-辽宁生活,http://175.148.29.98:9902/tsfile/live/1004_1.m3u8#http:///hls/26/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.150:1234
-辽宁青少,http://175.148.29.98:9902/tsfile/live/1005_1.m3u8#http:///hls/27/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.241:1234
-辽宁北方,http://175.148.29.98:9902/tsfile/live/1006_1.m3u8#http:///hls/24/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.151:1234
-辽宁公共,http://175.148.29.98:9902/tsfile/live/1007_1.m3u8#http:///hls/21/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.168:1234
-辽宁经济,http://175.148.29.98:9902/tsfile/live/1008_1.m3u8#http:///hls/20/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.156:1234
-辽宁移动,http://175.148.29.98:9902/tsfile/live/1009_1.m3u8#
+﻿#EXTINF:-1 tvg-logo=group-title="辽宁卫视",
+辽宁卫视
+http://175.148.29.98:9902/tsfile/live/0121_1.m3u8#http:///hls/19/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.126:1234
+#EXTINF:-1 tvg-logo=group-title="辽宁都市",
+辽宁都市
+http://175.148.29.98:9902/tsfile/live/1000_1.m3u8#http:///hls/22/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-logo=group-title="辽宁影视剧",
+辽宁影视剧
+http://175.148.29.98:9902/tsfile/live/1001_1.m3u8#http:///hls/23/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-logo=group-title="辽宁体育",
+辽宁体育
+http://175.148.29.98:9902/tsfile/live/1003_1.m3u8#http:///hls/25/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-logo=group-title="辽宁生活",
+辽宁生活
+http://175.148.29.98:9902/tsfile/live/1004_1.m3u8#http:///hls/26/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-logo=group-title="辽宁青少",
+辽宁青少
+http://175.148.29.98:9902/tsfile/live/1005_1.m3u8#http:///hls/27/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-logo=group-title="辽宁北方",
+辽宁北方
+http://175.148.29.98:9902/tsfile/live/1006_1.m3u8#http:///hls/24/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-logo=group-title="辽宁公共",
+辽宁公共
+http://175.148.29.98:9902/tsfile/live/1007_1.m3u8#http:///hls/21/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-logo=group-title="辽宁经济",
+辽宁经济
+http://175.148.29.98:9902/tsfile/live/1008_1.m3u8#http:///hls/20/index.m3u8#http://218.24.193.146:808/rtp/232.0.0.156:1234
+#EXTINF:-1 tvg-logo=group-title="辽宁移动",
+辽宁移动
+http://175.148.29.98:9902/tsfile/live/1009_1.m3u8
